@@ -1,1 +1,0 @@
-# bash_bundler-minifier
